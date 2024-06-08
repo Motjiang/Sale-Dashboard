@@ -11,7 +11,7 @@ The Sales Dashboard is designed to provide a comprehensive visualization of sale
 ---
 
 ## Data Source
-The data used in this dashboard is sourced from the company's internal sales database. It includes detailed records of sales transactions, covering various attributes such as product details, sales quantity, revenue, profit margins, and geographical information.
+The data used in this dashboard is sourced from MeriSkill internship. It includes detailed records of sales transactions, covering various attributes such as product details, sales quantity, revenue, profit margins, and geographical information.
 
 ## Tools
 The dashboard was created using the following tools:
